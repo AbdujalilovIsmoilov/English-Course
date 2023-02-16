@@ -1,0 +1,129 @@
+1) a va an artikillari.
+2) s va es ko'plikda.
+3) Irregular plurals. 
+4) Adjective, new, old, bad va good.
+5) To be.
+thick, 
+
+
+a / an 
+
+kuchuk, kuchukcha, devor, piyoz , book 
+
+a book 
+a dog 
+a puppy
+a wall 
+an onion 
+a,e,i o
+
+
+
+s va es 
+
+kuchuk, kuchukcha, devor, piyoz , book 
+dogs
+puppies 
+walls 
+onions  
+books 
+
+y, ss, x => es 
+
+dresses 
+box => boxes  
+
+
+Irregular plurals.
+
+a child => children
+a sheep => sheep  
+a man => men 
+a woman => women
+a tooth => teeth
+a foot => feet
+
+f or fe 
+knife => knives 
+life => lives 
+wife => wives 
+calf => calves
+leaf => leaves 
+
+o 
+potato => potatoes 
+tomato => tomatoes 
+hero => heroes 
+torpedo => torpedoes 
+
+
+Adjective, new, old, bad va good.
+
+She is not a pretty girl 
+
+a old car 
+
+I have got a old car
+
+He is a bad guy
+
+Anna is not a good girl 
+I am a developer
+
+To be => bo'lmoq fe'li 
+am, is and are 
+
+I am a developer
+She is a girl 
+
+I => Men 
+He => O'gil bolaga nisbatan(u);
+She => Qiz bolaga nisbatan(u); 
+it => Jonli va jonsiz narsalarga(u);
+We => Biz 
+They => Ular 
+You => Sen/Siz
+You 
+
+I am 
+He => is he is a guy 
+She =>  is  she is a girl 
+It => is it is a lion 
+
+Plural => are 
+
+Positive => Ijobiy 
+
+You => You are developers 
+They => They are workers 
+We are => We are nurses. 
+
+
+Negative => Inkor (not). emas 
+
+He is not a guy He's not a guy 
+she is not a beautiful girl  she's not a beautiful girl 
+It is not a lion it's not a lion 
+
+You are not developers. You're not developers.
+They are not workers. They're not workers. 
+
+We are not doctors, because We are builders. 
+We're not doctors, because We're builders. 
+
+I'm a developer.  
+
+Am I a developer ? Men dasturchimanmi. Yes, You're a developer. 
+is he a boy ? U bolami ? Yes, He is
+is She a girl ? U qiz bolami ? Yes, She is
+
+Are We nurses ? Biz hamshiralarmizmi ? Yes, You are nurses 
+Are you JavaScript Developers ? Yes, We are. 
+Are they builders ? Ular quruvchilarmi ? Yes, They are builders  
+
+
+
+
+
+
+
